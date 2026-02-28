@@ -19,7 +19,7 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 - script.js
 
 ## 🌐 Live Demo
-[Click Here to View Live Project] 
+[Click Here to View Live Project] https://rittik9565.github.io/currency-converter/
 
 ## 📸 Screenshot
 (Add screenshot image here if available)
